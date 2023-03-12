@@ -1,7 +1,7 @@
 # MPCNC Tornado Dust Assembly
 
 ![MPCNC Tornado](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/v3/IMG_20201130_174338_1_30.jpg "MPCNC Tornado")
-## DISCLAIMER
+## Disclaimer
 THIS IS A WORK IN PROGRESS. FILES WILL BE UPDATED UNTIL SATISFIED WITH DESIGN. PRINT AT YOUR OWN RISK.
 
 ## Releases
@@ -33,7 +33,9 @@ Additional assembly instructions, parts list and design discussion can be found 
 10. You should be able to slide the shoe into the two arms and test it out.
 
 ## Parts
-All parts have been order from [McMaster-Carr](https://www.mcmaster.com/)
+I order all parts from the [McMaster-Carr](https://www.mcmaster.com/) website. Use the parts numbers to find the items I used.
+You might be able to find these at a local hardware store or on amazon.
+
 ![Parts list](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/parts_list.png "Parts list")
 
 
