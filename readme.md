@@ -34,6 +34,6 @@ Additional assembly instructions, parts list and design discussion can be found 
 
 ## Parts
 All parts have been order from [McMaster-Carr](https://www.mcmaster.com/)
-![Parts list](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/v3/parts_list.png "Parts list")
+![Parts list](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/parts_list.png "Parts list")
 
 
