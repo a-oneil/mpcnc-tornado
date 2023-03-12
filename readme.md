@@ -33,7 +33,7 @@ Additional assembly instructions, parts list and design discussion can be found 
 10. You should be able to slide the shoe into the two arms and test it out.
 
 ## Parts
-I order all parts from the [McMaster-Carr](https://www.mcmaster.com/) website. Use the parts numbers to find the items I used.
+I order all parts from the [McMaster-Carr](https://www.mcmaster.com/) website. Use the part numbers to find the items I used.
 You might be able to find these at a local hardware store or on amazon.
 
 ![Parts list](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/parts_list.png "Parts list")
