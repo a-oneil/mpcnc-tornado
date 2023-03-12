@@ -11,7 +11,7 @@ THIS IS A WORK IN PROGRESS. FILES WILL BE UPDATED UNTIL SATISFIED WITH DESIGN. P
 ## Description
 When I build my MPCNC, I was looking for a decent dust collection system that was Z axis independent. All of the designs I've found on thingiverse and the V1 Engineering forums moved the dust shoe up and down with the router when it moved. 
 
-I determined I was going to design an assembly that would allow you to set the height of the dust shoe and lock it in so it doesn’t move when running the CNC. The dust shoe is held in by 8, 8mmx3mm magnets and allows you to easily remove the shoe when setting up your work piece.
+I determined that I was going to design an assembly from scratch that would allow you to set the height of the dust shoe and lock it in so it doesn’t move when running the CNC. The dust shoe is held in by 8, 8mmx3mm magnets and allows you to easily remove the shoe when setting up your work piece.
 
 ## Releases
 * V1: 10/30/2020
