@@ -1,6 +1,6 @@
 # MPCNC Tornado Dust Assembly
 
-![MPCNC Tornado](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/v3/IMG_20201130_174338_1_30.jpg "MPCNC Tornado")
+![MPCNC Tornado](./images/v3/IMG_20201130_174338_1_30.jpg "MPCNC Tornado")
 ## Disclaimer
 THIS IS A WORK IN PROGRESS. FILES WILL BE UPDATED UNTIL SATISFIED WITH DESIGN. PRINT AT YOUR OWN RISK.
 
@@ -36,6 +36,6 @@ Additional assembly instructions, parts list and design discussion can be found 
 I order all parts from the [McMaster-Carr](https://www.mcmaster.com/) website. Use the part numbers to find the items I used.
 You might be able to find these at a local hardware store or on amazon.
 
-![Parts list](https://austinoneil.com/aoneil/mpcnc-tornado/-/raw/master/images/parts_list.png "Parts list")
+![Parts list](./images/parts_list.png "Parts list")
 
 
